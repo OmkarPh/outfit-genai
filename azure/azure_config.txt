@@ -1,0 +1,15 @@
+compute="genai-fgrid-op"
+ml_workspace="ml-stable-diffusion"
+resource_group="rg-stable-diffusion"
+location="eastus"
+
+az group create --name "${resource_group}" --location "${location}"
+
+az ml workspace create -n "${ml_workspace}" -g "${resource_group}"
+
+az ml compute create -f compute.yml -n "${compute}" -w "${ml_workspace}" -g "${resource_group}"
+
+az ml compute show -n "${compute}" -w "${ml_workspace}" -g "${resource_group}"
+
+
+

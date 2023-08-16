@@ -1,0 +1,33 @@
+Train info
+Drive path: 
+Instance prompt: photo of Mr Harrington w/hood Hoodie
+Class prompt: photo of Hoodie
+Dataset dir - /content/gdrive/MyDrive/outfit-genai/dataset/processed/0176209
+Prompt template - style_filewords.txt
+
+
+3 hrs (too expensive)
+Embedding Learning rate - 0.05:10, 0.02:20, 0.01:60, 0.005:200, 0.002:500, 0.001:3000, 0.0005
+max steps - 5000
+images - 5
+
+23 mins (minimal)
+Embedding Learning rate - 5e-5:100, 5e-6:500, 5e-7:700, 5e-8:1000
+max steps - 2000
+save to log - 400
+save copy of embedding - 1000
+images - 2
+
+
+---------
+kurta
+
+31 mins
+max steps - 3000
+images - 4
+batch size - 2
+
+
+------
+
+

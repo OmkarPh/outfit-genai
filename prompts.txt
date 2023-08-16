@@ -1,0 +1,16 @@
+Prompt structure
+
+8k uhd, dslr, soft lighting, high quality, film grain, full frame, Fujifilm XT3 portrait photo of hrkrshn with (angular chiseled face) and wearing shirt and other complementary outfit <lora:add_detail:1>
+
+
+new innovative blue outfit for men for diwali festival, modern dress with traditional touch with nice design and latest fashion trends
+
+new innovative blue outfit for girls for diwali festival, modern dress with traditional touch with nice design and latest fashion trends
+
+man wearing blue outfit for diwali festival, modern dress with traditional touch with nice design and latest fashion trends
+
+
+create person with complete outfit, must be wearing hoodie
+
+
+hoodie <hypernet:hoodie:1>

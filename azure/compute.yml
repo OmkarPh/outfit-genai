@@ -1,0 +1,15 @@
+$schema: https://azuremlschemas.azureedge.net/latest/computeInstance.schema.json 
+
+type: computeinstance
+
+size: Standard_NC8as_T4_v3
+idle_time_before_shutdown: "PT30M"
+
+schedules:
+   compute_start_stop:
+      - action: stop
+        trigger:
+         type: cron
+         start_time: "2023-01-01T21:21:07"
+         time_zone: UTC
+         expression: 0 23 * * *
