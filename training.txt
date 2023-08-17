@@ -7,7 +7,7 @@ Prompt template - style_filewords.txt
 
 
 3 hrs (too expensive)
-Embedding Learning rate - 0.05:10, 0.02:20, 0.01:60, 0.005:200, 0.002:500, 0.001:3000, 0.0005
+Embedding Learning rate - 0.05:10, 0.02:20, 0.01:60, 0.005:200, 0.002:500, 0.001:3000
 max steps - 5000
 images - 5
 
@@ -29,5 +29,6 @@ batch size - 2
 
 
 ------
-
+hrithikroshan
+learning rate - 0.05:10, 0.02:20, 0.01:60, 0.005:200, 0.003:500, 0.002:2000, 0.0015:3000, 0.001:6000
 

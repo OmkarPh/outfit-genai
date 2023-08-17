@@ -1,0 +1,77 @@
+{
+  "_id": { "$oid": "64d6617b1e44ece0c43836b3" },
+  "name": "Men Printed, Typography Round Neck Cotton Blend Black T-Shirt",
+  "description": "Men Printed, Typography Round Neck Cotton Blend Black T-Shirt",
+  "highlights": ["Special Price"],
+  "specifications": [
+    {
+      "title": "Size",
+      "description": "XL",
+      "_id": { "$oid": "64d6617b1e44ece0c43836b4" }
+    },
+    {
+      "title": "Size",
+      "description": "2XL",
+      "_id": { "$oid": "64d6617b1e44ece0c43836b5" }
+    }
+  ],
+  "price": { "$numberInt": "179" },
+  "cuttedPrice": { "$numberInt": "499" },
+  "images": [
+    {
+      "public_id": "products/xjpedkzb5gaps4frzpqf",
+      "url": "https://res.cloudinary.com/dq96gosfo/image/upload/v1691771257/products/xjpedkzb5gaps4frzpqf.webp",
+      "_id": { "$oid": "64d6617b1e44ece0c43836b6" }
+    }
+  ],
+  "brand": {
+    "name": "Smartees",
+    "logo": {
+      "public_id": "brands/joyedl137tpedexmnwhz",
+      "url": "https://res.cloudinary.com/dq96gosfo/image/upload/v1691771258/brands/joyedl137tpedexmnwhz.png"
+    }
+  },
+  "category": "Men's Fashion",
+  "stock": { "$numberInt": "97" },
+  "warranty": { "$numberInt": "0" },
+  "ratings": { "$numberInt": "0" },
+  "numOfReviews": { "$numberInt": "0" },
+  "user": { "$oid": "64d531cb47ece0f87e20b50f" },
+  "reviews": [],
+  "impressions": [
+    {
+      "date": { "$date": { "$numberLong": "1691692200000" } },
+      "count": { "$numberInt": "2" },
+      "_id": { "$oid": "64d6636c1e44ece0c4383906" }
+    },
+    {
+      "date": { "$date": { "$numberLong": "1691865000000" } },
+      "count": { "$numberInt": "1" },
+      "_id": { "$oid": "64d911414f31d1af3c2ca2d1" }
+    },
+    {
+      "date": { "$date": { "$numberLong": "1691951400000" } },
+      "count": { "$numberInt": "1" },
+      "_id": { "$oid": "64d92b004f31d1af3c2cadc4" }
+    },
+    {
+      "date": { "$date": { "$numberLong": "1692037800000" } },
+      "count": { "$numberInt": "1" },
+      "_id": { "$oid": "64db9345322da4862837b5fc" }
+    }
+  ],
+  "purchases": [
+    {
+      "date": { "$date": { "$numberLong": "1691692200000" } },
+      "count": { "$numberInt": "1" },
+      "_id": { "$oid": "64d6637c1e44ece0c4383955" }
+    },
+    {
+      "date": { "$date": { "$numberLong": "1692037800000" } },
+      "count": { "$numberInt": "1" },
+      "_id": { "$oid": "64db94e770aa945424f7626b" }
+    }
+  ],
+  "createdAt": { "$date": { "$numberLong": "1691771259159" } },
+  "__v": { "$numberInt": "2" }
+}
