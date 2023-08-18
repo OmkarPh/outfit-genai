@@ -14,8 +14,9 @@ import {
 } from "@chakra-ui/react";
 import axios from "axios";
 import { useState } from "react";
+
 import { SD_API_URL } from "../config/api";
-import DummyResponse from "./response.json";
+import DummyResponse from "../samples/responses/txt2img.json";
 
 const Prompter = () => {
   const [imagesBase64, updateImagesBase64] = useState<string[]>([]);
